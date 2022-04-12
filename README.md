@@ -1,5 +1,5 @@
 # DeepLearning.AI TensorFlow Developer
-Repository for the [**DeepLearning.AI TensorFlow Developer**](https://www.coursera.org/professional-certificates/tensorflow-in-practice) professional certificate taught *by Laurence Moroney* on [Coursera](https://www.coursera.org/)
+Repository for the [**DeepLearning.AI TensorFlow Developer Professional Certificate**](https://www.coursera.org/professional-certificates/tensorflow-in-practice) taught *by Laurence Moroney* on [Coursera](https://www.coursera.org/)
 
 ![image](https://user-images.githubusercontent.com/8168416/160711484-31b450d9-d93c-4fb4-9f86-441a952d28e2.png)
 
