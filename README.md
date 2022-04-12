@@ -19,7 +19,7 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 **Source:** [About this Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 ## Courses
-There are 4 Courses in this Specialization, summarized in the table below.
+There are 4 Courses in this Professional Certificate, summarized in the table below.
 | # | Course Title | Progress | Certificate |
 | ------------- |:------------- |:-------------:|:-------------:|
 | 1  | [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice) | Completed | [:link:](https://www.coursera.org/account/accomplishments/certificate/E7VNGPNLU36B) |
