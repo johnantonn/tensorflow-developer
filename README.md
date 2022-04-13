@@ -23,8 +23,8 @@ There are 4 Courses in this Professional Certificate, summarized in the table be
 | # | Course Title | Progress | Certificate |
 | ------------- |:------------- |:-------------:|:-------------:|
 | 1  | [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice) | Completed | [:link:](https://www.coursera.org/account/accomplishments/certificate/E7VNGPNLU36B) |
-| 2  | [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice) | In progress | |
-| 3  | [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice) | TODO | |
+| 2  | [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice) | Completed | [:link:](https://www.coursera.org/account/accomplishments/certificate/LQVQH5RDXSMZ) |
+| 3  | [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice) | In progress | |
 | 4  | [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice)  | TODO | |
 
 ## Note
